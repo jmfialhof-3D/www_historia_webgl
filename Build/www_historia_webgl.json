@@ -1,0 +1,12 @@
+{
+"companyName": "JFialho | Designer | Professor",
+"productName": "WEB_History_JFialho",
+"dataUrl": "www_historia_webgl.data.unityweb",
+"wasmCodeUrl": "www_historia_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "www_historia_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
